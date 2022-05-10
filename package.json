@@ -1,6 +1,7 @@
 {
+  "slug": "flappybird",
   "title": "Flappy Bird",
-  "verison": "0.2.0",
+  "version": "1.0.1",
   "img": "/flappy-bird-preview.png",
   "exe": "/Flappy Bird.exe"
 }
